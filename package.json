@@ -1,0 +1,15 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "main": "api.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Meiallu",
+  "license": "ISC",
+  "description": "Bot simples de scrapping sem nenhum uso de libs",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
